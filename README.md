@@ -18,4 +18,4 @@ There is a description of how to perform a search, with images. (4 pt)
 ![filter_by_date_state](https://github.com/Poonsri14/UFOs/blob/main/Resources/filter_by_date_state.png)
 
 ### Summary:
-There is a drawback of this webpage for the filter, which requires to type. It would be good to have an auto typo or capitaliztion. In addition, there would be a benefits for end user if the webpage have the export the data option and add the sort for the filters.
+There is a drawback of this webpage for the filter, which requires to type. It would be great to have an auto typo or capitaliztion. In addition, there would be a benefits for end users if the webpage has the export bottom that allow end users to download the data and add the option to sort for the filters.
